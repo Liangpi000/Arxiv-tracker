@@ -1,12 +1,19 @@
-categories: ["cs.CV", "cs.LG", "cs.AI"]
+categories: ["cs.CL", "cs.AI", "cs.LG", "cs.CV"]
 keywords:
-  - "open vocabulary"
-  - "open-vocabulary"
-  - "open vocabulary segmentation"
-  - "open-vocabulary segmentation"
+  - "large language model"
+  - "LLM"
+  - "multimodal"
   - "vision language model"
-  - "training-free"
-  - "training free"
+  - "reasoning"
+  - "chain-of-thought"
+  - "in-context learning"
+  - "prompt"
+  - "fine-tuning"
+  - "alignment"
+  - "RLHF"
+  - "agent"
+  - "RAG"
+  - "long context"
 
 # exclude_keywords: # 选择排除的关键词
 #   - "Large Language Model"
